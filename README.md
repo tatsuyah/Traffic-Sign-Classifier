@@ -35,3 +35,8 @@ A simple deep convolutional neural network to classify traffic signs.
  * The network architecture is a extension of [LeNet-5](http://yann.lecun.com/exdb/lenet/)
  * Test accuracy ≒ 93
  
+## Usage
+
+```
+jupyter notebook Traffic_Sign_Classifier.ipynb
+```
