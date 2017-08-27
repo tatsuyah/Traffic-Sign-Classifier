@@ -19,6 +19,16 @@ A simple deep convolutional neural network to classify traffic signs.
 ![alt text][image4] ![alt text][image5] ![alt text][image6]
 ![alt text][image7] ![alt text][image8]
 
+## Dependencies
+
+ * TensorFlow >= 1.2
+ * Numpy
+ * Pandas
+ * Matplotlib
+ * scikit-learn
+ * OpenCV
+ * glob
+
 ## Notes
 
  * The dataset is [German Traffic Sign dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). Download from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip).
