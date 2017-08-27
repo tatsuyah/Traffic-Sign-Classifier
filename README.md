@@ -21,7 +21,7 @@ A simple deep convolutional neural network to classify traffic signs.
 
 ## Notes
 
- * The dataset is [German Traffic Sign dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
+ * The dataset is [German Traffic Sign dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). Download from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip).
  * The network architecture is a extension of [LeNet-5](http://yann.lecun.com/exdb/lenet/)
  * Test accuracy ≒ 93
  
